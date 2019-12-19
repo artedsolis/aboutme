@@ -6,7 +6,7 @@ The purpose of this web-site is to tell a little bit about me : who I am, my pro
 
 This was **my very fisrt Github repo** and also my very fisrt piece of code I have ever publicly shown  ! 
 
-It was build on July 2019 with HTML, CSS and Javascript. Graphic design was build with Adobe Illustrator and In Design inspired by the 80's TV color MIR. 
+It was build on July 2019 with **HTML**, **CSS** and **Javascript** (using an scroll snippet). Graphic design was build with Adobe Illustrator and In Design inspired by the 80's TV color MIR. 
 
 
 
