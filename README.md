@@ -1,6 +1,7 @@
 # aboutme
 
-![alt text]:(https://github.com/artedsolis/aboutme/blob/master/assets/img/photo.png)
+![photo cv]:(https://github.com/artedsolis/aboutme/blob/master/assets/img/photo.png)
+Format: ![Alt Text](url)
 
 The purpose of this web-site is to tell a little bit about me, who I am, what have I donne, my skills and my contact. 
 
